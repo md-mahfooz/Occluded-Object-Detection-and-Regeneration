@@ -2,8 +2,6 @@
 
 # 🚗 Occluded Object Detection & Regeneration (Amodal Perception)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange) ![SAM 2](https://img.shields.io/badge/Model-SAM%202-green) ![Status](https://img.shields.io/badge/Status-Research%20Prototype-purple)
-
 
 ## 📖 Abstract
 In autonomous driving, standard object detectors only see the **visible** part of an object (Modal Perception). If a car is 50% hidden behind a truck, standard models ignore the hidden half, which is dangerous for path planning.
